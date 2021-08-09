@@ -1,0 +1,52 @@
+body{
+    color: white;
+    font-family: calibri;
+}
+table td {
+    border-right: none;
+    border-left: none;
+
+
+
+}
+.html{
+    font-size: 60px;
+    border-bottom: none;
+
+}
+.a2{
+
+    font-size: 30px;
+    margin-top: -50px;
+}
+.a3{
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: -1px;
+}
+li{
+    margin-left: 38px;
+}
+.a4{
+    padding: -30px;
+
+}
+.div{
+    margin-left: 20px;
+    margin-top: -30px;
+}
+table{
+    background-color: black;
+    border-collapse: collapse;
+    margin-left: 20%;
+    margin-top: -35px;
+}
+#a1{
+    text-align: center;
+}
+.td{
+    border-bottom: none;
+}
+.ta{
+    border-top: none;
+}
